@@ -1,0 +1,14 @@
+C:\Users\RayanGate\source\repos\MatrixArrayFunc\MatrixArrayFunc\bin\Debug\MatrixArrayFunc.exe.config
+C:\Users\RayanGate\source\repos\MatrixArrayFunc\MatrixArrayFunc\bin\Debug\MatrixArrayFunc.exe
+C:\Users\RayanGate\source\repos\MatrixArrayFunc\MatrixArrayFunc\bin\Debug\MatrixArrayFunc.pdb
+C:\Users\RayanGate\source\repos\MatrixArrayFunc\MatrixArrayFunc\obj\Debug\MatrixArrayFunc.csproj.AssemblyReference.cache
+C:\Users\RayanGate\source\repos\MatrixArrayFunc\MatrixArrayFunc\obj\Debug\MatrixArrayFunc.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\MatrixArrayFunc\MatrixArrayFunc\obj\Debug\MatrixArrayFunc.exe
+C:\Users\RayanGate\source\repos\MatrixArrayFunc\MatrixArrayFunc\obj\Debug\MatrixArrayFunc.pdb
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\_Func\MatrixArrayFunc\MatrixArrayFunc\obj\Debug\MatrixArrayFunc.csproj.AssemblyReference.cache
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\_Func\MatrixArrayFunc\MatrixArrayFunc\obj\Debug\MatrixArrayFunc.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\_Func\MatrixArrayFunc\MatrixArrayFunc\obj\Debug\MatrixArrayFunc.exe
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\_Func\MatrixArrayFunc\MatrixArrayFunc\obj\Debug\MatrixArrayFunc.pdb
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\_Func\MatrixArrayFunc\MatrixArrayFunc\bin\Debug\MatrixArrayFunc.exe.config
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\_Func\MatrixArrayFunc\MatrixArrayFunc\bin\Debug\MatrixArrayFunc.exe
+C:\Users\RayanGate\Desktop\Project\C Sharp\DS\_Func\MatrixArrayFunc\MatrixArrayFunc\bin\Debug\MatrixArrayFunc.pdb
